@@ -1,0 +1,38 @@
+Terms of Service for Harley's Guard
+
+Effective Date: 9/23/2024
+
+Welcome to Harley's Guard! These Terms of Service ("Terms") govern your use of our Discord bot and related services. By inviting or using Harley's Guard, you agree to comply with these Terms. If you do not agree with any part of these Terms, you must not use our services.
+
+1. Acceptance of Terms
+By using Harley's Guard, you confirm that you are at least 13 years old or that you have the consent of a parent or guardian.
+
+2. User Accounts
+To use certain features of Harley's Guard, you may need to connect your Discord account. You agree to provide accurate and complete information when prompted and to keep it updated.
+
+3. Use of Services
+You agree to use Harley's Guard only for lawful purposes and in accordance with these Terms. You must not:
+- Use our services in any way that violates any applicable law or Discord's Terms of Service.
+- Engage in any conduct that restricts or inhibits anyone's use or enjoyment of our services.
+- Impersonate any person or entity or misrepresent your affiliation with any person or entity.
+
+4. Data Collection and Privacy
+Harley's Guard may collect and store information from your Discord account, including but not limited to your username, avatar, and any interactions you have with the bot. We respect your privacy and will not share your information with third parties without your consent, except as required by law.
+
+5. Intellectual Property
+All content, trademarks, and other intellectual property associated with Harley's Guard are the property of Harley-THE-GAMER (HarleyTG) or our licensors. You may not reproduce, distribute, or create derivative works without our prior written permission.
+
+6. Termination
+We reserve the right to suspend or terminate your access to Harley's Guard [Bot and Dashboard] at any time, without notice, for conduct that we believe violates these Terms or is harmful to other users or our services.
+
+7. Disclaimer of Warranties
+Harley's Guard is provided on an "as-is" and "as-available" basis. We make no warranties, express or implied, regarding the operation or availability of our services. We do not guarantee that our services will be uninterrupted, secure, or free from errors.
+
+8. Limitation of Liability
+To the fullest extent permitted by law, Harley-THE-GAMER (HarleyTG) shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, our services.
+
+10. Changes to These Terms
+We may revise these Terms from time to time. We will notify you of any changes by posting the new Terms in our documentation. Your continued use of our services after any changes constitute acceptance of the new Terms.
+
+11. Contact Us
+If you have any questions about these Terms, please contact us at Harley's Guard Discord Server [Official] (https://discord.gg/acbmS72Wwx).
