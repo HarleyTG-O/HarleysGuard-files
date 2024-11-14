@@ -9,6 +9,7 @@ When you use Harley's Guard, we may collect the following types of information:
 - Discord Account Information: When you log in using your Discord account, we collect your username, user ID, avatar, and any other information you choose to share through Discord.
 - Personal Information: If you provide additional information while using our services (e.g., feedback, support requests), we may collect that as well.
 - Usage Data: We collect information about your interactions with our services, including logins, preferences (like theme settings), and feature usage.
+- IP Addresses and Device History: We collect information about your IP addresses and device history for security and activity monitoring purposes. This includes data related to devices you use to access our services and any associated IP addresses. IP addresses may be terminated at any time without prior notice. You may request the deletion of this information by submitting a support request.
 
 2. How We Use Your Information
 We use your information for various purposes, including:
